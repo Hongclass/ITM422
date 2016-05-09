@@ -1,0 +1,7 @@
+C:\Users\Student Worker\Desktop\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Student Worker\Desktop\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Student Worker\Desktop\Final Project\Final Project\obj\x86\Debug\Final_Project.Form1.resources
+C:\Users\Student Worker\Desktop\Final Project\Final Project\obj\x86\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Student Worker\Desktop\Final Project\Final Project\obj\x86\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\Student Worker\Desktop\Final Project\Final Project\obj\x86\Debug\Final Project.exe
+C:\Users\Student Worker\Desktop\Final Project\Final Project\obj\x86\Debug\Final Project.pdb

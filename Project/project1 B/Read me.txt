@@ -1,0 +1,6 @@
+In this fold, includes:
+1.	final version of ERD for small engine shop.vsdx
+2.	created tables.sql (because this assignment requests us to work as a group, I adjust my tables and create some new ones according the ERD. Before running queries, you can run this sql file.)
+3.	queris of question 2 - 20 .sql (answer this assignments’ questions from No.2 to No.20 )
+4.	itm422_section04_Porject1_PartB_Hong Zhang.docx (the same as queris of question 2 - 20 .sql)
+5.	Read me.txt (explain this fold’s files)
